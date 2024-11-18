@@ -70,6 +70,6 @@ All real numbers are solutions.
 Clone the repository and navigate to the project directory:
 
 ```sh
-git clone [https://github.com/mounadi05/ComputorV1.git](https://github.com/Mounadi05/42-ComputorV1.git)
+git clone https://github.com/Mounadi05/42-ComputorV1.git
 cd ComputorV1
 ```
